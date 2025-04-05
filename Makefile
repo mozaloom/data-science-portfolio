@@ -4,6 +4,7 @@ install:
 
 test:
 	python -m pytest --nbval data_science_notebook.ipynb
+	python -m pytest --nbval Cluster_Analysis.ipynb
 
 format:
 	black *.py
