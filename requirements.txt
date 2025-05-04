@@ -1,9 +1,12 @@
+numpy
+pandas
+seaborn
+matplotlib
+requests
+sickit-learn
+scipy
 pytest
 pylint
 jupyter
 pytest-cov
-pandas
 nbval
-click
-flask
-requests
